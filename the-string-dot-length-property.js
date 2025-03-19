@@ -20,11 +20,12 @@ let stringTwo = "JavaScript";
 let stringThree = "";
 
 // Your task: Assign the length of each string to the corresponding variable
-let lengthOne;   // Length of stringOne
-let lengthTwo;   // Length of stringTwo
-let lengthThree; // Length of stringThree
+let lengthOne;   // Length of stringOne: 15
+let lengthTwo;   // Length of stringTwo: 10
+let lengthThree; // Length of stringThree: 0
 
 // Your code here
-
-
+console.log(stringOne.length);
+console.log(stringTwo.length);
+console.log(stringThree.length);
 
